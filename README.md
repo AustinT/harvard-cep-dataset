@@ -19,6 +19,6 @@ When extracted, it holds 4 files:
 
 ## Instructions to run
 
-1. Extract `raw-data.tar.gz`
+1. Extract the run data by running `bash extract-raw-data.sh`
 2. Run `python filter_moldata.py` to produce the filtered dataset.
 3. Run `python make_smiles_files.py` to make the train/test/validation sets.

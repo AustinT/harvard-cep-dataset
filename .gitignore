@@ -1,3 +1,9 @@
+# Custom files to ignore
+raw-data/*
+.vscode/
+processed_data/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
